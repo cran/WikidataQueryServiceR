@@ -1,7 +1,7 @@
 Package: WikidataQueryServiceR
 Title: API Client Library for 'Wikidata Query Service'
-Version: 0.1.0
-Date: 2017-01-17
+Version: 0.1.1
+Date: 2017-04-28
 Authors@R: c(
     person("Mikhail", "Popov", email = "mikhail@wikimedia.org",
            role = c("aut", "cre"), comment = "@bearloga on Twitter"),
@@ -17,11 +17,11 @@ BugReports: https://github.com/bearloga/WikidataQueryServiceR/issues
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2017-01-17 20:24:47 UTC; mpopov
+Packaged: 2017-04-28 18:32:57 UTC; mpopov
 Author: Mikhail Popov [aut, cre] (@bearloga on Twitter),
   Wikimedia Foundation [cph]
 Maintainer: Mikhail Popov <mikhail@wikimedia.org>
 Repository: CRAN
-Date/Publication: 2017-01-17 23:12:16
+Date/Publication: 2017-04-28 22:26:11 UTC
